@@ -1,0 +1,8 @@
+title: Hayato Nishimura
+description: nhayato.com
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
